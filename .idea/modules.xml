@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-EE-Assignments.iml" filepath="$PROJECT_DIR$/Java-EE-Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../O15_POS_SPA_Front_End/O15_POS_SPA_Front_End.iml" filepath="$PROJECT_DIR$/../O15_POS_SPA_Front_End/O15_POS_SPA_Front_End.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../O16_POS_SPA_Back_End/O16_POS_SPA_Back_End.iml" filepath="$PROJECT_DIR$/../O16_POS_SPA_Back_End/O16_POS_SPA_Back_End.iml" />
     </modules>
   </component>
 </project>
