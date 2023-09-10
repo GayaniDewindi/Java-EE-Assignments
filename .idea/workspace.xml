@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa118b7d-53de-46d5-873f-3e15e6e55df6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/json-p" />
+    <property name="last_opened_file_path" value="D:/JavaEE_POS_Layered" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -175,7 +174,7 @@
       <workItem from="1692435805670" duration="1736000" />
       <workItem from="1692462249214" duration="2138000" />
       <workItem from="1692629640210" duration="577000" />
-      <workItem from="1694353153294" duration="4999000" />
+      <workItem from="1694353153294" duration="7238000" />
     </task>
     <servers />
   </component>
